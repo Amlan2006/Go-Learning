@@ -11,4 +11,5 @@ func conditions(x int) {
 	} else {
 		fmt.Println("You are a senior citizen")
 	}
+
 }
